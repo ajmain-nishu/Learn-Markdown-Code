@@ -1,0 +1,1 @@
+To Copy: <kbd>CTRL</kbd> + <kbd>C</kbd> = <kbd>Paste</kbd>

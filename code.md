@@ -1,0 +1,1 @@
+To display an image we use `<img >` tag
